@@ -1687,13 +1687,6 @@
 
 .web19201 .component23 .rectangle7 {
     position: absolute;
-      box-sizing: content-box;
-      -ms-transform: rotate(0.00deg);
-    -webkit-transform: rotate(0.00deg);
-    transform: rotate(0.00deg);
-    -ms-transform-origin: center;
-    -webkit-transform-origin: center;
-    transform-origin: center;
       opacity: 1;
       cursor: default;
       margin-top: 0.00px;
@@ -1705,6 +1698,7 @@
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       background-color: rgba(155, 165, 151, 1);
+      cursor: pointer;
       box-shadow: inset 0 0 0 0 #9ba597;
       -webkit-transition: ease-out 0.4s;
       -moz-transition: ease-out 0.4s;
