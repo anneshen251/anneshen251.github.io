@@ -1705,6 +1705,10 @@
       padding-bottom: 0.00px;
       padding-left: 0.00px;
       background-color: rgba(155, 165, 151, 1);
+      box-shadow: inset 0 0 0 0 #9ba597;
+      -webkit-transition: ease-out 0.4s;
+      -moz-transition: ease-out 0.4s;
+      transition: ease-out 0.4s;
       border-bottom-color: rgba(86, 84, 84, 1);
       border-bottom-style: none;
       border-bottom-width: 1.00px;
@@ -1727,6 +1731,10 @@
     left: 0.00px;
     top: 0.00px;
 
+}
+
+.web19201 .component23 .rectangle7:hover {
+ box-shadow: inset 400px 0 0 0 #9ba597;     
 }
 
 .web19201 .component23 .personalProjects {
